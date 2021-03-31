@@ -8,4 +8,4 @@
 
 ## What are the results
 1. The first plot is the result of output after the lowpass filter
-2. The second plot is 
+3. The second plot is show up the frequency and have a peak at the frequency we choose
