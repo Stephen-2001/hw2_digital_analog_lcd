@@ -17,7 +17,7 @@ int main(){
 	uLCD.text_height(1);
 	uLCD.color(RED);
 
-    int display_frequency = 30;
+    	int display_frequency = 30;
 	int frequency = 30;
 	double piece = 0.0;
 	double T = 1000.0 / frequency;
